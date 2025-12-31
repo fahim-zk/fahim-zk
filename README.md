@@ -1,6 +1,6 @@
 ## Hey 👋 there, I am Fahim Mohamed, A ZKP Engineer and Researcher
 
-Formerly immersed into the world of Smart Contracts as Ethereum Security Researcher, I currently enjoy learning, researching and building Zero Knowledge Proof Systems. Having initially taken Bsc in Energy Engineering from JOOUST, i decided to wrapp together my Mathematical & Physics skills and deploy it to Blockchain to particularly solve the issues of Scalability and Privacy.
+Formerly immersed into the world of Smart Contracts as Ethereum Security Researcher, I currently enjoy learning, researching and building Zero Knowledge Proof Systems. Having initially taken Bsc in Energy Engineering from JOOUST, i decided to wrapp together my Physics & Mathematical skills and deploy it to Blockchain to particularly solve the issues of Scalability and Privacy.
 
 For those who do not know Zero Knowledge Proofs, this are systems that use mathematical rules to authentically prove a secretive content or element without revealing it.
 
