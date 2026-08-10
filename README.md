@@ -1,10 +1,9 @@
-## Hi 👋 to the new eyes here, I am a ZK Engineer and Researcher known as Fahim to the mammmals!
+## Having found myself as Rust ZK Engineer and Researcher,i am wondering and want to find out whether ZK Math is true or not!!
 
-As former Ethereum Security Researcher, I currently do research and build Zero Knowledge Proof Systems. With an Undergraduate Degree in Energy Engineering, i felt as if Ethereum needs the Physics & Mathematical skills from Engineering to solve the two challenging issues in Blockchain: Privacy and Scalability.
+Building Zero Knowledge Proof Systems is fun beacuse of Mathematics. With an Undergraduate Degree in Electro-Mechanical Engineering(Energy), you can join me in exploring the Physics & Mathematical skills to solve the two challenging issues in Blockchain: Privacy and Scalability.
 
 For those who do not know Zero Knowledge Proofs, these are systems that use mathematical rules to authentically prove a secretive content or element without revealing it.
 
-My latest Project showcases STARK-Verified ZK voting implementedm in Cairo. The frontend is LIVE on Vercel with th Contract ddeployed on Sepolia. After i grant permission for access, you can GO and vote there!.....and tag me on X(formely Twitter)
 
 <!--
 **Dorane-27/Dorane-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
